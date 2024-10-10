@@ -1,0 +1,37 @@
+header{
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+body{
+    background-color: #7dcea0;
+}
+
+h1{
+    color: #8e44ad;
+}
+
+h2{
+    color: #0074c2;
+}
+
+h3{
+    color: #0074c2;
+}
+.image{
+    position: absolute;
+    width: 290px;
+    right: 0;
+    top: 0;
+    height: auto;
+}
+
+.formacion{
+    color: #a52e2e;
+}
+
+.experiencia{
+    color: #a52e2e;
+}

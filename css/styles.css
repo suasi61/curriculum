@@ -1,38 +1,26 @@
-header{
-    justify-content: space-between;
-    align-items: center;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
-
-
-
-body{
-    background-color: #7dcea0;
+header {
+    background: #3e5969;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
 }
-
-h1{
-    color: #8e44ad;
+main {
+    padding: 20px;
+    text-align: center;
 }
-
-h2{
-    color: #0074c2;
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #35424a;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
-
-h3{
-    color: #0074c2;
-}
-.image{
-    position: absolute;
-    width: 290px;
-    right: 0;
-    top: 0;
-    height: auto;
-}
-
-.formacion{
-    color: #a52e2e;
-}
-
-.experiencia{
-    color: #a52e2e;
-}
-
